@@ -3,7 +3,7 @@
 
 ![Web Design 1](https://user-images.githubusercontent.com/118565186/233802149-dcae8293-306a-4a2c-9185-c145caf3fa7e.PNG)
 
-Github Page Link: 
+Github Page Link: https://sahmirah.github.io/Web-Design-Challenge/ 
 <br>
 
 # Latitude - Latitude Analysis Dashboard with Attitude
